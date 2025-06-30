@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore PyCharm / IntelliJ project files
+.idea/
+*.iml
+
+# Ignore model files (optional, vì thường rất nặng)
+*.h5
+*.keras
+
+# Ignore dataset CSVs if lớn hoặc không cần public
+*.csv
+
+# Optional: VSCode settings
+.vscode/
+data/
+working/
