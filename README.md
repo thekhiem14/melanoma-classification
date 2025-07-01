@@ -7,6 +7,9 @@ This project implements a deep learning pipeline using CNN and ResNet50 to class
 A detailed technical report about this project is available here: [My report](https://drive.google.com/file/d/1_iBKBcYAvy1bDBIG3svwfB0PJLlmuZxr/view) <br>
 It includes background theory, implementation steps, challenges, evaluation metrics, and future development directions.
 
+## Original Project
+This project was originally written and published on Kaggle: [View on Kaggle](https://www.kaggle.com/code/khimnguynth/melanoma)
+
 ## Dataset
 
 I use the [HAM10000 dataset](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) (10,000+ dermoscopy images), available on Kaggle.
